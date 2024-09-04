@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [link](https://blitz-flex.github.io/qr-code-component)
+- Live Site URL: [link](https://blitz-flex.github.io/QR-Code/)
 
 ## My process
 
